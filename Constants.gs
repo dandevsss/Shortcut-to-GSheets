@@ -1,26 +1,26 @@
 // remove my IDs before committing for obvious reasons, but add in your own spreadsheet IDs below;;
 // spreadsheet ID is between /d/ and /edit in the Google Sheet URL and paste it in ' SHEET_ID_HERE ' below
 var spreadsheetIds = {
-  march1: 'YOUR_SHEET_ID_HERE', 
-  march2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  april1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  april2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  may1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  may2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  june1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  june2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  july1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  july2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  august1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  august2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  september1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  september2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  october1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  october2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  november1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  november2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw',
-  december1: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw', 
-  december2: '1yi-1vFX2u1VQ7IC0yuQyr713Bz3njaowxUpSi35Mdhw'
+  march1: 'YOUR_SHEET_ID_HERE_AND_BELOW', 
+  march2: '',
+  april1: '', 
+  april2: '',
+  may1: '', 
+  may2: '',
+  june1: '', 
+  june2: '',
+  july1: '', 
+  july2: '',
+  august1: '', 
+  august2: '',
+  september1: '', 
+  september2: '',
+  october1: '', 
+  october2: '',
+  november1: '', 
+  november2: '',
+  december1: '', 
+  december2: ''
 };
 
 // replace sheetName: 'POCKET_NAME' exactly as in the apple shortcut choices and sheet tab name
