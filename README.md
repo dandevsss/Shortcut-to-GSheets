@@ -16,4 +16,8 @@ WebApp ID will be provided after it is  deployed and may view if you click "Mana
 
 Copy the WebApp ID and paste it in the Shortcut settings to integrate the use of it
 
+Apple Shortcut link for Budget Tracker:
+https://www.icloud.com/shortcuts/99f6e9af60dd4a80a449e5b90ee2604b
+
 Change the menu action part in the accounts that you have
+- in the get contents of URL, change in the part of the Request Body "type" row, change it in the name of your account in all capital letters
